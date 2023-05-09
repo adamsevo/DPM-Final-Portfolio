@@ -9,4 +9,4 @@ I built this website from a bootstrap HTML template, and from there I edited the
 Throughout this project, I utilized source code management here with GitHub and feature branches in GitHub desktop. The bulk of this website is built with HTML, but there are also some Javascript elements, as well as some CSS styling in stylesheets. Some specific project requirements included the use of favicons and meta tags, and we utilized compliance tools like cookie popups, privacy policies, and terms of use. At the end of the site creation, we used Google Analytics to create a campaign to monitor website traffic and usage.
 
 You can visit the site here!
-www.adamseverson.com
+adamseverson.com
